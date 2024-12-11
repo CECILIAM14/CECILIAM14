@@ -7,9 +7,9 @@
 
 Un poco sobre mi:
 
-- 🔭 Me convertí en Analista de Datos en el Bootcamp de TripleTen. Dominio Python, SQL y herramientas de visualización de datos. 👩🏻‍💻
+- 🔭 Analista de Datos por el Bootcamp de TripleTen. Dominio Python, SQL y herramientas de visualización de datos. 👩🏻‍💻
 - 🌱 Hoy en día estoy estudiando ciberseguridad y me especializo en redes y protocolos.
-- 🎈 Próximamente obtendré la certificación CCST, lo que me permitirá profundizar en la configuración y gestión de sistemas de seguridad.
+- 🎈 Próximamente obtendré la certificación CCST, que me permitirá profundizar en la configuración y gestión de sistemas de seguridad.
 - ✨ Transición laboral. 
 - 👯 Estoy disponible para colaborar en proyectos desafiantes y aprender de nuevos desafíos.
 - 📫 Dónde encontrarme: [![Linkedin Badge](https://img.shields.io/badge/-Cecilia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cecilia-moyaho/)
